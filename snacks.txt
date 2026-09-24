@@ -1,4 +1,5 @@
 candy
 chips
 fruit
+hummus
 oranges
